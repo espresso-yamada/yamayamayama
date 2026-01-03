@@ -1,0 +1,11 @@
+index.htmlをVS CODEで更新⇒保存
+下の３行をpowershellで入力
+git addは、変更をGitに登録
+git commit -m"update"は、変更を確定
+git pushは、GitHubへ送信
+
+
+
+git add .
+git commit -m "update"
+git push
